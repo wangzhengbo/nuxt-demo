@@ -1,0 +1,2 @@
+# nuxt-demo
+Nuxt demo.
